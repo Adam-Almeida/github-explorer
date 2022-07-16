@@ -15,3 +15,8 @@ Utilize o código apenas como estudo e base para o seu aprendizado.
 > - CONFIGURAÇÃO DO WEBPACK
 > - FECTH EM API EXTERNA
 > - ESTADO, PROPRIEDADES E COMPONENTES
+
+
+![](https://user-images.githubusercontent.com/62906170/179363118-1c6275f0-0946-4db3-b5fd-3776cf059bfd.gif)
+
+
