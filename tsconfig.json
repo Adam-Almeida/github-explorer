@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "lib": ["dom","DOM.Iterable","ESNext"], // LIDANDO COM A DOM E MOSTRANDO TIPAGENS QUE NÃO TERIAMOS
+    "allowJs": true, // PARA TRABALHAR TANTO COM TS | JS (IMPORTANTE PARA MIIGRAÇÃO DE APPS)
+    "jsx": "react-jsx", //SETANDO PARA QUE O TYPESCRIPT ENTENDA QUE TRABALHAREMOS COM HTML DENTRO DO REACT
+    "noEmit": true,
+    "strict": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true, //HABILITANDO POSSIBILIDADE DE IMPORT DE ARQUIVOS JSON
+    "isolatedModules": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["src"]//ONDE ESTARÁ TODO O CÓDIGO DA APLICAÇÃO
+}
